@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GastoIngressos</string>
+    <string name="totaldejogos">Total de jogos</string>
+    <string name="precoporingresso">Preço do ingresso</string>
+    <string name="seugastoede">Seu Gasto por jogo é de</string>
+    <string name="R$" 0</string>
+</resources>
